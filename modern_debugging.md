@@ -34,7 +34,7 @@ While reading docs can be tedious, it can help you to understand what problem yo
 
 # tech support cheat sheet
 
-![tech support cheat sheet](/images/tech_support_cheat_sheet.png)
+![tech support cheat sheet](https://res.cloudinary.com/btvca/image/upload/v1574445205/curriculum/tech_support_cheat_sheet_xxdk3k.png)
 
 from https://xkcd.com/627/
 

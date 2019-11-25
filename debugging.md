@@ -100,7 +100,7 @@ This is one reason why *pair programming* is so effective.
 
 If you don't have a pair, try explaining your problem out loud to a pet, or a doll.
 
-![rubber duck](/images/rubber-duck.jpg)
+![rubber duck](https://res.cloudinary.com/btvca/image/upload/v1574445201/curriculum/rubber-duck_tgzkaj.jpg)
 
 # Read the Error
 
